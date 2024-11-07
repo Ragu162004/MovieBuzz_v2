@@ -141,6 +141,25 @@
     }
 }
 
+
+.header .menuItems .loginButton {
+    cursor: pointer;
+    color: #fff;
+}
+
+.mobileLoginButton {
+    display: none;
+    cursor: pointer;
+    padding: 10px;
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+}
+
+.header.mobileView .mobileLoginButton {
+    display: block;
+}
+
 @keyframes mobileMenu {
     0% {
         transform: translateY(-130%);

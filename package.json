@@ -13,9 +13,12 @@
     "axios": "^1.2.2",
     "cinemx": "file:",
     "dayjs": "^1.11.7",
+    "firebase": "^11.0.1",
+    "moviebuzz": "file:",
     "react": "^18.2.0",
     "react-circular-progressbar": "^2.1.0",
     "react-dom": "^18.2.0",
+    "react-hot-toast": "^2.4.1",
     "react-icons": "^4.7.1",
     "react-infinite-scroll-component": "^6.1.0",
     "react-lazy-load-image-component": "^1.5.6",
@@ -23,6 +26,7 @@
     "react-redux": "^8.0.5",
     "react-router-dom": "^6.6.2",
     "react-select": "^5.7.0",
+    "react-toastify": "^10.0.6",
     "sass": "^1.57.1"
   },
   "devDependencies": {
